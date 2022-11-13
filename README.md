@@ -1,1 +1,1 @@
-# official.catppucin-frappe
+# official.catppuccin-frappe
